@@ -1,7 +1,7 @@
 
-=======
+
 ![](./capa_readme_luelencavalheiro.gif)
->>>>>>> ee3575df5b42451dc77dd4c493463187baaac3dc
+
 
 # Back-end | Variáveis
 
